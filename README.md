@@ -20,8 +20,8 @@ Aplicação web para cadastro de funcionários com persistência via LocalStorag
 
 ### Aplicação com funcionários cadastrados
 
-> _Adicione aqui um print da aplicação com ao menos 5 funcionários cadastrados_
+![FuncionáriosCad](img/funcionarios.png)
 
 ### LocalStorage no navegador
 
-> _Adicione aqui um print do LocalStorage (DevTools > Application > Local Storage)_
+![LocalStorage](img/cadastro.png)
